@@ -1,0 +1,37 @@
+Comandos Básicos:
+--------------
+- git init: Inicializa un nuevo repositorio Git en el directorio actual.
+- git clone [url]: Clona un repositorio remoto en un nuevo directorio local.
+- git add [archivo]: Añade un archivo específico o todos los archivos al área de preparación.
+- git commit -m "[mensaje]": Crea un nuevo commit con los cambios en el área de preparación y un mensaje descriptivo.
+- git status: Muestra el estado actual del repositorio.
+- git log: Muestra el historial de commits.
+
+Trabajando con Ramas:
+--------------
+- git branch: Muestra una lista de todas las ramas en el repositorio.
+- git branch [nombre]: Crea una nueva rama con el nombre especificado.
+- git checkout [rama]: Cambia a la rama especificada.
+- git merge [rama]: Fusiona la rama especificada con la rama actual.
+
+Trabajando con Repositorios Remotos:
+--------------
+- git remote add [nombre] [url]: Agrega un repositorio remoto con el nombre especificado y la URL proporcionada.
+- git remote -v: Muestra una lista de los repositorios remotos configurados.
+- git push [nombre-remoto] [rama]: Envía los commits locales al repositorio remoto.
+- git pull [nombre-remoto] [rama]: Obtiene los cambios del repositorio remoto y los fusiona en la rama actual local.
+- git fetch [nombre-remoto]: Obtiene los cambios del repositorio remoto sin fusionarlos.
+
+Deshaciendo Cambios:
+--------------
+- git reset [archivo]: Quita el archivo del área de preparación, pero conserva los cambios locales.
+- git reset --hard [commit]: Descarta todos los cambios locales y establece el repositorio en el commit especificado.
+- git revert [commit]: Crea un nuevo commit que revierte los cambios del commit especificado.
+
+Otras Herramientas:
+--------------
+- git diff: Muestra las diferencias entre los cambios sin preparar y el último commit.
+- git tag [nombre]: Crea un nuevo tag en el commit actual.
+- git stash: Guarda los cambios locales en una pila temporal.
+- git checkout -- [archivo]: Descarta los cambios locales en un archivo específico.
+
