@@ -3,3 +3,6 @@ Un lenguaje de programación puede ser compatible solo con algunos sistemas oper
 
 Pregunta 2:
 VirtualBox es una máquina virtual de tipo hipervisor de software desarrollada por Oracle, que permite ejecutar múltiples sistemas operativos simultáneamente en un solo hardware físico.
+
+Pregunta 3:
+Si una máquina virtual se rompe, generalmente no afectará a otras máquinas virtuales, ya que se ejecutan de forma aislada. Sin embargo, problemas técnicos o de rendimiento en el entorno de virtualización subyacente podrían afectar a todas las máquinas virtuales.
