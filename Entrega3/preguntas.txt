@@ -1,0 +1,2 @@
+Pregunta 1
+Un lenguaje de programación puede ser compatible solo con algunos sistemas operativos debido a diferencias en la forma en que se ejecutan los programas y se manejan los recursos en cada sistema.
