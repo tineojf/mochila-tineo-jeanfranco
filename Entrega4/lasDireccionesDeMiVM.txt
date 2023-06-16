@@ -1,0 +1,8 @@
+Ip publica:
+38.25.40.126
+
+MAC:
+4c:eb:cd:a5:50:f2
+
+Pregunta:
+Si, la dirección IP pública es única y se utiliza para la comunicación en Internet, mientras que la dirección IP privada se usa internamente en una red local y no es visible desde Internet.
