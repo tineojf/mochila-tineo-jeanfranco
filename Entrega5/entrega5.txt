@@ -1,0 +1,11 @@
+Archivo subido a github mediante conexion ssh en maquina virtual, siguiendo los siguientes pasos:
+
+1) Abrir una terminal
+2) Verificar OpenSSH instalado, sino instalarlo
+3) Tener usuario, contraseña y direccion_ip de la maquina virtual
+4) Ejecutar ssh usuario@direccion_ip
+5) Digitar contraseña
+6) Editar archivo necesario
+7) Guardar cambios
+8) Actualizar repositorio
+9) Enviar cambios al repositorio remoto
